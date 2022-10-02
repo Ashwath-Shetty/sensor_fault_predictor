@@ -9,7 +9,7 @@ Design and develop an ML / DL based approach to identify whether the given data 
 or faulty for the sensor data of the industrial gearbox machine.
 
 ## Folder Structure
-
+```
 .
 ├── data                     # replace with original Data-> faulty and healthy data files.
 ├── exports                   # exported models and scaler object.
@@ -24,7 +24,7 @@ or faulty for the sensor data of the industrial gearbox machine.
 ├── fast_api.py              # FastAPI for deployment
 ├── api_test.py              # api test file for fast api
 └── README.md
-
+```
 
 <b>How can i train the model?</b>
 <br>step 1: clone the repository using https://github.com/Ashwath-Shetty/sensor_fault_predictor.git 
