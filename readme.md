@@ -9,6 +9,8 @@ Design and develop an ML / DL based approach to identify whether the given data 
 or faulty for the sensor data of the industrial gearbox machine.
 
 ## Folder Structure
+
+.
 ├── data                     # replace with original Data-> faulty and healthy data files.
 ├── exports                   # exported models and scaler object.
 ├── notebooks                # Jupyter notebooks.
