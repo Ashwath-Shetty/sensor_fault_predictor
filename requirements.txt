@@ -2,3 +2,7 @@
 streamlit
 scikit-learn==1.0.2
 joblib==1.0.1
+# xgboost  commenting this to avoid the deployment error
+# fastapi==0.75.0
+# uvicorn==0.17.6
+# gunicorn==19.9.0
